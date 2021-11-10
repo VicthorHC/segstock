@@ -1,6 +1,6 @@
 <?php
 
-define('HOST', 'localhost');
+define('HOST', 'localhost:3306');
 define('USUARIO', 'root');
 define('SENHA', '');
 define('DB', 'segstock');
